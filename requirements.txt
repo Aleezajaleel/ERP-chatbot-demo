@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+reportlab
+# Optional: uncomment if connecting to real Oracle
+# oracledb
+# For WhatsApp integration (example server): Flask
+# Flask
